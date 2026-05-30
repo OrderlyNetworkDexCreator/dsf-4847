@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
-  "VITE_ORDERLY_BROKER_NAME": "PumpFun HyperLiquid",
+  "VITE_ORDERLY_BROKER_NAME": "PumpFunHyperLiquid",
   "VITE_BROKER_EOA_ADDRESS": "0x625159a9a7054fdfb9d8aebae53603c7254bfa15",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "false",
@@ -14,7 +14,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
   "VITE_WALLETCONNECT_PROJECT_ID": "ab65483a710eb3117b0f3425adb679fa",
-  "VITE_APP_NAME": "PumpFun HyperLiquid",
+  "VITE_APP_NAME": "PumpFunHyperLiquid",
   "VITE_APP_DESCRIPTION": "Hyperliquid on Pump.fun",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
