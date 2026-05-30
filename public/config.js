@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/i/communities/1999478587750019423",
   "VITE_SEO_SITE_NAME": "Hyperliquid on Pump.fun",
   "VITE_SEO_SITE_DESCRIPTION": "Hyperliquid on Pump.fun",
-  "VITE_SEO_SITE_URL": "https://pumpfunhyperliquid.fun",
+  "VITE_SEO_SITE_URL": "https://pumpfunhyperliquid.fi",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "",
