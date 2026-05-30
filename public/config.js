@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Hyperliquid on Pump.fun",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "false",
-  "VITE_ENABLED_MENUS": "Markets,Portfolio,Leaderboard,Trading,Swap",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Leaderboard,Swap",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
